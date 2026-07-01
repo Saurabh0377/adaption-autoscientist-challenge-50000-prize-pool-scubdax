@@ -120,3 +120,7 @@ rural_india_triage_protocols contains **11,217 high-quality medical reasoning pa
   publisher={Hugging Face / Kaggle},
   howpublished={\url{[https://huggingface.co/datasets/Saurabhkumarozp61/rural_india_triage_protocols](https://huggingface.co/datasets/Saurabhkumarozp61/rural_india_triage_protocols)}, \url{[https://www.kaggle.com/datasets/saurabhkumaropz61/adaption-rural-india-triage-protocols](https://www.kaggle.com/datasets/saurabhkumaropz61/adaption-rural-india-triage-protocols)}}
 }
+
+Built with Adaption. Adaptive AI infrastructure for domain-specific model training.
+
+adaptionlabs.ai · @adaption_ai
