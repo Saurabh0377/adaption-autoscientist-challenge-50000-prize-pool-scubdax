@@ -241,6 +241,7 @@ rural_india_triage_protocols contains **11,217 high-quality medical reasoning pa
   year={2026},
   publisher={Hugging Face / Kaggle},
   howpublished={\url{https://huggingface.co/datasets/scubdax/rural_india_triage_protocols}}
+{https://www.kaggle.com/datasets/saurabhkumaropz61/adaption-rural-india-triage-protocols}}
 }
 ```
 
